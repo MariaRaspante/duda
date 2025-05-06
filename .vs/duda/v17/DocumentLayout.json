@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\duda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A6A33-E527-4136-BC8A-67DE871D6B6A}|eduarda\\eduarda.csproj|c:\\users\\aluno\\source\\repos\\duda\\eduarda\\models\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A6A33-E527-4136-BC8A-67DE871D6B6A}|eduarda\\eduarda.csproj|solutionrelative:eduarda\\models\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A6A33-E527-4136-BC8A-67DE871D6B6A}|eduarda\\eduarda.csproj|c:\\users\\aluno\\source\\repos\\duda\\eduarda\\views\\escolas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3A6A33-E527-4136-BC8A-67DE871D6B6A}|eduarda\\eduarda.csproj|solutionrelative:eduarda\\views\\escolas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A6A33-E527-4136-BC8A-67DE871D6B6A}|eduarda\\eduarda.csproj|c:\\users\\aluno\\source\\repos\\duda\\eduarda\\controllers\\escolascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A6A33-E527-4136-BC8A-67DE871D6B6A}|eduarda\\eduarda.csproj|solutionrelative:eduarda\\controllers\\escolascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\duda\\eduarda\\Views\\Escolas\\Index.cshtml",
+              "RelativeDocumentMoniker": "eduarda\\Views\\Escolas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\duda\\eduarda\\Views\\Escolas\\Index.cshtml",
+              "RelativeToolTip": "eduarda\\Views\\Escolas\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T00:08:20.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EscolasController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\duda\\eduarda\\Controllers\\EscolasController.cs",
+              "RelativeDocumentMoniker": "eduarda\\Controllers\\EscolasController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\duda\\eduarda\\Controllers\\EscolasController.cs",
+              "RelativeToolTip": "eduarda\\Controllers\\EscolasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:57:10.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\duda\\eduarda\\Models\\Escola.cs",
+              "RelativeDocumentMoniker": "eduarda\\Models\\Escola.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\duda\\eduarda\\Models\\Escola.cs",
+              "RelativeToolTip": "eduarda\\Models\\Escola.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:46:28.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
